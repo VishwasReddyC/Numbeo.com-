@@ -1,0 +1,5 @@
+## Author
+[vishwas Reddy Chaduvu]& [Rahul cheman] –[Eu Business School] MADSC301 Business Intelligence, Term 3, AY 2025/26
+
+## License
+Educational use only. Respected Numbeo’s terms of service.
