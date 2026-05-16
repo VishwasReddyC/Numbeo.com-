@@ -20,4 +20,4 @@ This project uses **Selenium** to scrape real-time cost of living data for Munic
    `pip install selenium pandas matplotlib webdriver-manager`
 2. Run the notebook cell by cell, or execute as a script.
 
-## Example Output (KPIs)
+
